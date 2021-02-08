@@ -1,0 +1,36 @@
+#navigation-bar{
+    font-size: 25px;
+    background-color: rebeccapurple
+}
+.navbar-nav{
+    position: relative;
+    left: 70%;
+}
+body{
+    background-color: aliceblue;
+}
+.description{
+    position: absolute;
+    text-align: center;
+    width: 50%;
+    left: 25%;
+    top: 30%;
+    font-style: italic;
+} 
+.formfill{
+    position: absolute;
+    top: 120%;
+    left: 30%;
+}
+.col-auto{
+    position: absolute;
+    top: 125%;
+    left: -2%;
+}
+.footer {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    bottom: 0%;
+    background-color: rosybrown;
+}

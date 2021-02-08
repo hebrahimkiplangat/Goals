@@ -1,0 +1,7 @@
+.position{
+  height:200px;
+  width:300px;
+  background-image: url("https://goo.gl/EkjKGo");
+  background-size: 50px 50px;
+  background-position: right bottom;
+}
